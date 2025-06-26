@@ -17,7 +17,7 @@ Desenvolvedor Full Stack Júnior em constante evolução. Apaixonado por tecnolo
 
 ## 📌 Sobre mim
 
-- 💼 Desenvolvedor Full Stack Júnior  
+- 💼 Desenvolvedor Back-end Júnior  
 - 🎓 Sempre estudando e aperfeiçoando minhas habilidades  
 - 📍 Localização: Guarujá, São Paulo – Brasil  
 - 🎯 Interesses: Desenvolvimento Web, Backend, Frontend e APIs  
