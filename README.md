@@ -1,6 +1,6 @@
 # 👋 Olá!,Me chamo Rogério Augusto.
 
-Desenvolvedor Full Stack Júnior em constante evolução. Apaixonado por tecnologia, busco aplicar meus conhecimentos em projetos práticos enquanto continuo me aprimorando nas principais linguagens e ferramentas do mercado.
+Desenvolvedor Back-end Júnior em constante evolução. Apaixonado por tecnologia, busco aplicar meus conhecimentos em projetos práticos enquanto continuo me aprimorando nas principais linguagens e ferramentas do mercado.
 
 ---
 
