@@ -20,7 +20,7 @@ Desenvolvedor Back-end Júnior em constante evolução. Apaixonado por tecnologi
 - 💼 Desenvolvedor Back-end Júnior  
 - 🎓 Sempre estudando e aperfeiçoando minhas habilidades  
 - 📍 Localização: Guarujá, São Paulo – Brasil  
-- 🎯 Interesses: Desenvolvimento Web, Backend, Frontend e APIs  
+- 🎯 Interesses: Desenvolvimento Web, Backend, Java, Spring e APIs  
 
 ---
 
