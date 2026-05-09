@@ -89,5 +89,5 @@ Me chamo Rogério Augusto, sou natural de São Paulo e atualmente moro em Guaruj
 
 
 <div align=center>
-    <img src="https://raw.githubusercontent.com/rogers-code/rogers-codes/output/snake.svg" alt="Snake animation" />
+    <img src="https://raw.githubusercontent.com/rogers-codes/rogers-codes/output/snake.svg" alt="Snake animation" />
 </div>
