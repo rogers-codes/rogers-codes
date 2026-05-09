@@ -1,108 +1,147 @@
-# 👋 Olá! Me chamo Rogério Augusto 🚀
 
-- 💻 Atualmente estudando e desenvolvendo projetos com Java, Spring Boot e APIs REST.
-- 🎓 Formado em Técnico em Informática.
-- 📚 Sempre evoluindo no desenvolvimento Back-end e boas práticas de software.
+# 👨🏻‍💻 Rogério Augusto
 
-<br/>
+**`Desenvolvedor Back-end `**
 
-# Tecnologias que utilizo
+Me chamo Rogério Augusto, sou natural de São Paulo e atualmente moro em Guarujá - SP. Sou formado em Técnico em Informática e apaixonado por tecnologia, desenvolvimento backend e construção de APIs REST. Atualmente, estou focado em evoluir minhas habilidades com Java, Spring Boot, bancos de dados e ferramentas DevOps, criando projetos práticos e buscando constantemente novos conhecimentos na área de desenvolvimento de software.
 
-<table>
-<tr>
+<p align="left">
+    <a href="https://github.com/rogers-codes?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/rogers-codes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/rogers-codes?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/rogers-codes?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/augusto-rogerio/">
+        <img 
+            alt="LinkedIn" 
+            title="Meu LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+</p>
 
-<td valign="top" width="50%">
+---
 
-## Backend
+### 🤖 Linguagens e Tecnologias
 
-<div align="center">
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
+/>
 
-<a href="https://www.java.com/" target="_blank">
-<img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="65" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<img 
+    align="left" 
+    alt="Spring"
+    title="Spring Boot" 
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" 
+/>
 
-<a href="https://spring.io/" target="_blank">
-<img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" height="65" />
-</a>
+<img 
+    align="left" 
+    alt="PostgreSQL"
+    title="PostgreSQL" 
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
+/>
 
-<br/><br/>
+<img 
+    align="left" 
+    alt="MySQL"
+    title="MySQL" 
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+/>
 
-<a href="https://www.postgresql.org/" target="_blank">
-<img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="65" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<img 
+    align="left" 
+    alt="Git"
+    title="Git" 
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+/>
 
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="65" />
-</a>
+<img 
+    align="left" 
+    alt="Docker"
+    title="Docker" 
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
+/>
 
-</div>
-
-</td>
-
-<td valign="top" width="50%">
-
-## DevOps
-
-<div align="center">
-
-<a href="https://www.linux.org/" target="_blank">
-<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="65" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="65" />
-</a>
-
-<br/><br/>
-
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="65" />
-</a>
-
-</div>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-# Se conecte comigo
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/augusto-rogerio/" target="_blank">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/rogers-codes" target="_blank">
-<img src="https://img.shields.io/badge/GITHUB-171515?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-<br/>
-
-# Github Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rogers-codes&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogers-codes&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<img 
+    align="left" 
+    alt="Linux"
+    title="Linux" 
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
+/>
 
 <br/>
+<br/>
 
-<div align="center">
+### 📊 Estatísticas
 
-![Snake animation](https://github.com/rogers-codes/rogers-codes/blob/output/github-contribution-grid-snake-dark.svg)
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="180" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=rogers-codes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true" 
+  />
 
-</div>
+<img 
+      align="left" 
+      alt="Tecnologias" 
+      height="180" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogers-codes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&hide_border=true" 
+  />
+
+</p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+### 🐍 Snake Animation
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/rogers-codes/rogers-codes/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/rogers-codes/rogers-codes/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/rogers-codes/rogers-codes/output/github-contribution-grid-snake-dark.svg"
+  />
+</picture>
+```
