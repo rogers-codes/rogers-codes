@@ -87,47 +87,7 @@ Me chamo Rogério Augusto, sou natural de São Paulo e atualmente moro em Guaruj
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=rogers-codes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true" 
-  />
 
-<img 
-      align="left" 
-      alt="Tecnologias" 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogers-codes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&hide_border=true" 
-  />
-
-</p>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-### 🐍 Snake Animation
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/rogers-codes/rogers-codes/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/rogers-codes/rogers-codes/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/rogers-codes/rogers-codes/output/github-contribution-grid-snake-dark.svg"
-  />
-</picture>
-```
+<div align=center>
+    <img src="https://raw.githubusercontent.com/rogers-code/rogers-codes/output/snake.svg" alt="Snake animation" />
+</div>
