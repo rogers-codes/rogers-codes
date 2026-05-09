@@ -6,20 +6,6 @@
 Me chamo Rogério Augusto, sou natural de São Paulo e atualmente moro em Guarujá - SP. Sou formado em Técnico em Informática e apaixonado por tecnologia, desenvolvimento backend e construção de APIs REST. Atualmente, estou focado em evoluir minhas habilidades com Java, Spring Boot, bancos de dados e ferramentas DevOps, criando projetos práticos e buscando constantemente novos conhecimentos na área de desenvolvimento de software.
 
 <p align="left">
-    <a href="https://github.com/rogers-codes?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/rogers-codes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/rogers-codes?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/rogers-codes?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-        />
-    </a>
     <a href="https://www.linkedin.com/in/augusto-rogerio/">
         <img 
             alt="LinkedIn" 
