@@ -19,56 +19,114 @@ Me chamo Rogério Augusto, sou natural de São Paulo e atualmente moro em Guaruj
 
 ### 🤖 Linguagens e Tecnologias
 
+### 🚀 Backend
+
+<p align="left">
+
 <img 
     align="left" 
     alt="Java"
     title="Java" 
-    width="35px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
 />
 
 <img 
     align="left" 
-    alt="Spring"
+    alt="Spring Boot"
     title="Spring Boot" 
-    width="35px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" 
 />
 
 <img 
     align="left" 
-    alt="PostgreSQL"
-    title="PostgreSQL" 
-    width="35px" 
+    alt="Hibernate"
+    title="Hibernate" 
+    width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Maven"
+    title="Maven" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" 
+/>
+
+</p>
+
+<br/>
+<br/>
+
+### 🗄️ Banco de Dados
+
+<p align="left">
 
 <img 
     align="left" 
     alt="MySQL"
     title="MySQL" 
-    width="35px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
 />
 
 <img 
     align="left" 
+    alt="PostgreSQL"
+    title="PostgreSQL" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
+/>
+
+</p>
+
+<br/>
+<br/>
+
+### 🔗 APIs & Arquitetura
+
+- RESTful APIs  
+- Microsserviços  
+- Spring Security  
+- JPA / Hibernate  
+
+---
+
+### ⚙️ DevOps & Ferramentas
+
+<p align="left">
+
+<img 
+    align="left" 
     alt="Git"
     title="Git" 
-    width="35px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
 />
 
 <img 
     align="left" 
+    alt="GitHub"
+    title="GitHub" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="Docker"
     title="Docker" 
-    width="35px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
 />
@@ -77,13 +135,53 @@ Me chamo Rogério Augusto, sou natural de São Paulo e atualmente moro em Guaruj
     align="left" 
     alt="Linux"
     title="Linux" 
-    width="35px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
 />
 
+</p>
+
 <br/>
 <br/>
+
+### 🎨 Front-end
+
+<p align="left">
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML5" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="CSS"
+    title="CSS3" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="JavaScript"
+    title="JavaScript" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+/>
+
+</p>
+
+<br/>
+<br/>
+```
+
 
 ### 📊 Estatísticas
 
