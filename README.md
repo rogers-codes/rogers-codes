@@ -3,7 +3,7 @@
 
 **`Desenvolvedor Back-end `**
 
-Me chamo Rogério Augusto, sou natural de São Paulo e atualmente moro em Guarujá - SP. Sou formado em Técnico em Informática e apaixonado por tecnologia, desenvolvimento backend e construção de APIs REST. Atualmente, estou focado em evoluir minhas habilidades com Java, Spring Boot, bancos de dados e ferramentas DevOps, criando projetos práticos e buscando constantemente novos conhecimentos na área de desenvolvimento de software.
+Me chamo Rogério Augusto, sou natural de São Paulo e profissional em crescimento em engenharia de software. Sou formado em Técnico em Informática e apaixonado por tecnologia, desenvolvimento backend e construção de APIs REST. Atualmente, estou focado em evoluir minhas habilidades com Java, Spring Boot, bancos de dados e ferramentas DevOps, criando projetos práticos e buscando constantemente novos conhecimentos na área de desenvolvimento de software.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/augusto-rogerio/">
