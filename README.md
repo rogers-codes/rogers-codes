@@ -1,5 +1,5 @@
 
-# 👨🏻‍💻 Rogério Augusto
+# Olá! Me chamo Rogério Augusto 👋
 
 **`Desenvolvedor Back-end `**
 
