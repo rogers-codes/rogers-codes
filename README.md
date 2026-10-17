@@ -42,8 +42,8 @@ Me chamo Rogério Augusto, sou natural de São Paulo e profissional em crescimen
 - Microsserviços  
 - Docker & CI/CD  
 - Git e GitHub  
-- MySQL & PostgreSQL  
-- HTML, CSS e JavaScript (Intermediário)
+- SQL 
+- HTML, CSS e JavaScript
 
 ### 📊 Git Commits in Snake
 
