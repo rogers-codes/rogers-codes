@@ -15,7 +15,7 @@ Meu nome é Rogério e sou natural de São Paulo, Apaixonado por Técnologia e p
     </a>
 </p>
 
-### 🚀 Tecnologias e Ferramentas
+### 🚀 Technologies
 
 <p align="left">
   <img title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -31,9 +31,13 @@ Meu nome é Rogério e sou natural de São Paulo, Apaixonado por Técnologia e p
   <img title="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img title="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/claude/claude-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcopilot/githubcopilot-plain.svg" />
+    
 </p>
 
-### 📌 Conhecimentos
+### 📌 Skills
 
 - Java 8+  
 - Spring Boot & Spring Security  
@@ -45,9 +49,4 @@ Meu nome é Rogério e sou natural de São Paulo, Apaixonado por Técnologia e p
 - SQL 
 - HTML, CSS e JavaScript
 
-### 📊 Git Commits in Snake
-
-
-<div align=center>
-    <img src="https://raw.githubusercontent.com/rogers-codes/rogers-codes/output/snake.svg" alt="Snake animation" />
-</div>
+### 🏅 Achievements
