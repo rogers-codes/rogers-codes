@@ -3,8 +3,7 @@
 
 **`Desenvolvedor Back-end `**
 
-Meu nome é Rogério e sou natural de São Paulo, Apaixonado por Técnologia e profissional em crescimento na engenharia de software. Sou estudante universitário do curso Sistemas para Internet na Fatec Rubens lara, alem de formado em Técnico em Informática e apaixonado por tecnologia, desenvolvimento backend e construção de APIs REST. Atualmente, estou focado em evoluir minhas habilidades com Java, Spring Boot, bancos de dados e ferramentas DevOps, criando projetos práticos e buscando constantemente novos conhecimentos na área de desenvolvimento de software.
-
+Meu nome é Rogério e sou natural de São Paulo, Apaixonado por Tecnologia e profissional em crescimento na engenharia de software. Sou estudante universitário do curso Sistemas para Internet na Fatec Rubens lara, alem de formado em Técnico em Informática na Etec. Atualmente estudo desenvolvimento backend e construção de APIs REST, focando totalmente em evoluir minhas habilidades com Java, Spring Boot, bancos de dados e ferramentas DevOps, criando projetos práticos e buscando constantemente novos conhecimentos na área de desenvolvimento de software. Hoje busco meu primeiro estágio em desenvolvimento back-end, estudando continuamente e construindo projetos com foco em código limpo e bem estruturado para entregar total satisfação do código ao deploy.
 <p align="left">
     <a href="https://www.linkedin.com/in/augusto-rogerio/">
         <img 
