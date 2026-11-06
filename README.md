@@ -50,3 +50,8 @@ Meu nome é Rogério e sou natural de São Paulo, Apaixonado por Técnologia e p
 - HTML, CSS e JavaScript
 
 ### 🏅 Achievements
+- SQL Certified By  <a href="https://www.datacamp.com/certificate/SQA0019210560971">DataCamp</a>
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=radical"  />
+</div>
