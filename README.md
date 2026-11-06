@@ -14,7 +14,7 @@ Meu nome é Rogério e sou natural de São Paulo, Apaixonado por Tecnologia e pr
     </a>
 </p>
 
-### 🚀 Technologies
+### </> Technologies
 
 <p align="left">
   <img title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -39,7 +39,7 @@ Meu nome é Rogério e sou natural de São Paulo, Apaixonado por Tecnologia e pr
 ### 📌 Skills
 
 - Java 8+  
-- Spring Boot & Spring Security  
+- Spring Framework (JPA,Security,Etc.)  
 - JPA / Hibernate  
 - APIs RESTful  
 - Microsserviços  
