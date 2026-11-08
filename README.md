@@ -38,7 +38,7 @@ Meu nome é Rogério e sou natural de São Paulo, Apaixonado por Tecnologia e pr
 
 ### 📌 Skills
 
-- Java 8+  
+- Java 
 - Spring Framework (JPA,Security,Etc.)  
 - JPA / Hibernate  
 - APIs RESTful  
