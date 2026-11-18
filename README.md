@@ -1,5 +1,5 @@
 
-# Olá! Me chamo Rogério Augusto 👋
+# Olá! Me chamo Rogério Augusto ☕
 
 **`Desenvolvedor Back-end `**
 
@@ -14,7 +14,7 @@ Que prazer te ver aqui! Me chamo Rogério, sou Apaixonado por Tecnologia e profi
     </a>
 </p>
 
-### </> Technologies
+### </> Technologies Skills
 
 <p align="left">
   <img title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -35,18 +35,6 @@ Que prazer te ver aqui! Me chamo Rogério, sou Apaixonado por Tecnologia e profi
 <img title="copilot" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcopilot/githubcopilot-plain.svg" />
     
 </p>
-
-### 📌 Skills
-
-- Java 
-- Spring Framework (JPA,Security,Etc.)  
-- JPA / Hibernate  
-- APIs RESTful  
-- Microsserviços  
-- Docker & CI/CD  
-- Git e GitHub  
-- SQL 
-- HTML, CSS e JavaScript
 
 ### 🏅 Achievements
 - SQL Certified By  <a href="https://www.datacamp.com/certificate/SQA0019210560971">DataCamp</a>
